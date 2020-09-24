@@ -30,40 +30,40 @@ Config.Police = {
 }
 
 Config.Mechanic = {
-	Shop = false, -- true = Use Mechanic Shop | false = Does Opposite
-	Blips = false, -- true = Use Mechanic Blip | false = Does Opposite
+	Shop = true, -- true = Use Mechanic Shop | false = Does Opposite
+	Blips = true, -- true = Use Mechanic Blip | false = Does Opposite
 	Blip = {Coords = vector3(-321.87, -137.64, 38.01), Sprite = 326, Color = 17, Display = 4, Scale = 1.0},
 	License = true, -- Requires License to Buy Mechanic Vehicles.
 	ResellPerc = 50 -- The Resell % of Vehicles Sold | Example: $10,000 / 50% = $5,000 Back
 }
 
 Config.Aircraft = {
-	Shop = false, -- true = Use Aircraft Shop | false = Does Opposite
-	Blips = false, -- true = Use Aircraft Blip | false = Does Opposite
+	Shop = true, -- true = Use Aircraft Shop | false = Does Opposite
+	Blips = true, -- true = Use Aircraft Blip | false = Does Opposite
 	Blip = {Coords = vector3(-940.0, -2963.1, 18.8), Sprite = 90, Color = 4, Display = 4, Scale = 1.0},
 	License = true, -- Requires License to Buy Aircrafts.
 	ResellPerc = 50 -- The Resell % of Vehicles Sold | Example: $10,000 / 50% = $5,000 Back
 }
 
 Config.Boat = {
-	Shop = false, -- true = Use Boat Shop | false = Does Opposite
-	Blips = false, -- true = Use Boat Blip | false = Does Opposite
+	Shop = true, -- true = Use Boat Shop | false = Does Opposite
+	Blips = true, -- true = Use Boat Blip | false = Does Opposite
 	Blip = {Coords = vector3(-714.3, -1297.3, 4.1), Sprite = 410, Color = 3, Display = 4, Scale = 1.0},
 	License = true, -- Requires License to Buy Boats.
 	ResellPerc = 50 -- The Resell % of Vehicles Sold | Example: $10,000 / 50% = $5,000 Back
 }
 
 Config.Car = {
-	Shop = false, -- true = Use Car Shop | false = Does Opposite
-	Blips = false, -- true = Use Car Blip | false = Does Opposite
+	Shop = true, -- true = Use Car Shop | false = Does Opposite
+	Blips = true, -- true = Use Car Blip | false = Does Opposite
 	Blip = {Coords = vector3(-33.7, -1102.0, 25.4), Sprite = 326, Color = 2, Display = 4, Scale = 1.0},
 	License = true, -- Requires License to Buy Cars.
 	ResellPerc = 50 -- The Resell % of Vehicles Sold | Example: $10,000 / 50% = $5,000 Back
 }
 
 Config.Truck = {
-	Shop = false, -- true = Use Truck Shop | false = Does Opposite
-	Blips = false, -- true = Use Truck Blip | false = Does Opposite
+	Shop = true, -- true = Use Truck Shop | false = Does Opposite
+	Blips = true, -- true = Use Truck Blip | false = Does Opposite
 	Blip = {Coords = vector3(900.4, -1155.0, 24.1), Sprite = 67, Color = 2, Display = 4, Scale = 1.0},
 	License = true, -- Requires License to Buy Trucks.
 	ResellPerc = 50 -- The Resell % of Vehicles Sold | Example: $10,000 / 50% = $5,000 Back
