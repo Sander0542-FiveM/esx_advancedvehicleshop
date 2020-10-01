@@ -32,7 +32,7 @@ Locales['nl'] = {
   -- Aircraft Shop
   ['aircraft_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~p~Vliegtuigwinkel',
   ['aircraft_dealer'] = 'dealerbedrijf | Vliegtuig',
-  ['aircraft_missing'] = 'je hebt geen vliegbruvet!',
+  ['aircraft_missing'] = 'je hebt geen vliegbrevet!',
   ['aircraft_belongs'] = 'een vliegtuig met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
   ['aircraft_purchased'] = 'je hebt een vliegtuig gekocht',
   -- Boat Shop
