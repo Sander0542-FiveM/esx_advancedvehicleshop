@@ -1,0 +1,63 @@
+Locales['nl'] = {
+  -- Shared
+  ['shop_awaiting_model'] = 'het voertuig is momenteel aan het laden, ~r~WACHT AUB!',
+  ['no'] = 'nee',
+  ['yes'] = 'ja',
+  ['not_enough_money'] = 'je hebt niet genoeg geld',
+  ['not_yours'] = 'dit voertuig is niet van jou',
+  ['sell_menu'] = 'druk op ~INPUT_CONTEXT~ om je ~y~%s~s~ te verkopen voor ~g~€%s~s~',
+  ['generic_shopitem'] = '€%s',
+  ['buy_vehicle'] = 'wil je %s kopen voor €%s?',
+  ['buy_license'] = 'licentie kopen?',
+  ['sold_for'] = 'de ~b~%s~s~ is ~y~verkocht~s~ voor ~g~€%s~s~',
+  ['license_missing'] = 'Licentie ontbreekt',
+  ['go_to'] = 'u moet naar een licentieshop gaan om licenties te kopen.',
+  ['your_rank'] = 'Dit voertuig is niet voor jouw rang!',
+  ['cant_sell'] = 'U moet dit voertuig verkopen waar u het heeft gekocht.',
+  -- Ambulance Shop
+  ['ambulance_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~r~Ambulancewinkel',
+  ['ambulance_dealer'] = 'dealerbedrijf | Ambulance',
+  ['ambulance_belongs'] = 'een ambulance met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['ambulance_purchased'] = 'je hebt een ambulance gekocht',
+  -- Police Shop
+  ['police_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~b~Politiewinkel',
+  ['police_dealer'] = 'dealerbedrijf | Politie',
+  ['police_belongs'] = 'een politieauto met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['police_purchased'] = 'je hebt een politieauto gekocht',
+  -- Mechanic Shop
+  ['mechanic_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~o~Monteurwinkel',
+  ['mechanic_dealer'] = 'dealerbedrijf | Monteur',
+  ['mechanic_belongs'] = 'een monteurvoertuig met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['mechanic_purchased'] = 'je hebt een monteurvoertuig gekocht',
+  -- Aircraft Shop
+  ['aircraft_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~p~Vliegtuigwinkel',
+  ['aircraft_dealer'] = 'dealerbedrijf | Vliegtuig',
+  ['aircraft_missing'] = 'je hebt geen vliegtuiglicentie!',
+  ['aircraft_belongs'] = 'een vliegtuig met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['aircraft_purchased'] = 'je hebt een vliegtuig gekocht',
+  -- Boat Shop
+  ['boat_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~b~Bootwinkel',
+  ['boat_dealer'] = 'dealerbedrijf | Boot',
+  ['boat_missing'] = 'je hebt geen vaarbewijs!',
+  ['boat_belongs'] = 'een boot met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['boat_purchased'] = 'je hebt een boot gekocht',
+  -- Car Shop
+  ['car_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~g~Garage',
+  ['car_dealer'] = 'dealerbedrijf | Auto',
+  ['car_missing'] = 'je hebt geen rijbewijs!',
+  ['car_belongs'] = 'een auto met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['car_purchased'] = 'je hebt een auto gekocht',
+  -- Truck Shop
+  ['truck_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~c~Vrachtwagenwinkel',
+  ['truck_dealer'] = 'dealerbedrijf | Vrachtwagen',
+  ['truck_missing'] = 'u heeft geen commerciële licentie!',
+  ['truck_belongs'] = 'een vrachtwagen met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['truck_purchased'] = 'je hebt een vrachtwagen gekocht',
+  -- VIP Shop
+  ['vip_menu'] = 'druk op ~INPUT_CONTEXT~ om toegang te krijgen tot de ~y~VIP-winkel',
+  ['vip_dealer'] = 'dealerbedrijf | VIP',
+  ['vip_missing'] = 'je hebt geen rijbewijs!',
+  ['vip_belongs'] = 'een VIP-voertuig met nummerplaat ~y~%s~s~ is nu van ~b~jou~s~',
+  ['vip_purchased'] = 'je hebt een VIP-voertuig gekocht',
+  ['vip_no'] = 'je bent ~r~GEEN ~w~~y~VIP!',
+}
